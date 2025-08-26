@@ -1,0 +1,403 @@
+/* Add Your Styles Here */
+body {
+	padding: 0;
+  margin: 0;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+      * {
+        max-width: unset;
+      }
+
+      #iddrjk {
+        font-size: 18px;
+      }
+
+      #iqwzq2p {
+        margin-top: 0px;
+      }
+
+      #imlkzo {
+        font-size: 14px;
+      }
+
+      #i6kzop {
+        font-family: "DM Sans";
+        font-size: 14px;
+      }
+
+      #igtja9 {
+        font-size: 18px;
+      }
+
+      #i8szz5 {
+        font-size: 18px;
+      }
+
+      #ic6v1n {
+        font-size: 18px;
+      }
+
+      #i3c3yk {
+        font-size: 18px;
+      }
+
+      #iikfvh {
+        font-size: 18px;
+      }
+
+      #i7usvm {
+        font-size: 18px;
+      }
+
+      #ixp6bl {
+        font-size: 18px;
+      }
+
+      #i6efip {
+        font-size: 18px;
+      }
+
+      #iu5pw5 {
+        font-size: 18px;
+      }
+
+      #iqcydd {
+        font-size: 18px;
+      }
+
+      #imy87h {
+        font-size: 18px;
+      }
+
+      #ibataw {
+        font-size: 18px;
+      }
+
+      #i6obm5 {
+        font-size: 18px;
+      }
+
+      #iz3hcf {
+        font-size: 18px;
+      }
+
+      #ir3u4c {
+        font-size: 18px;
+      }
+
+      #idgn1k {
+        font-size: 18px;
+      }
+
+      #i96n0t {
+        font-size: 20px;
+      }
+
+      #igugt1 {
+        font-size: 18px;
+      }
+
+      #ienu8o {
+        font-size: 18px;
+      }
+
+      #iwee8p {
+        font-size: 18px;
+      }
+
+      #ilpru6 {
+        font-size: 18px;
+      }
+
+      #i69xkf {
+        font-size: 18px;
+      }
+
+      #i4dqkq {
+        font-size: 18px;
+      }
+
+      #iwscmz {
+        font-size: 18px;
+      }
+
+      #inq17h {
+        font-size: 18px;
+      }
+
+      #it790n {
+        font-size: 18px;
+      }
+
+      #itxipsa {
+        font-size: 18px;
+      }
+
+      #iak2ne5 {
+        font-size: 18px;
+      }
+
+      #iwjxct {
+        margin-bottom: 9px;
+      }
+
+      #if9ftrp {
+        font-size: 18px;
+      }
+
+      #i9t7wv8 {
+        margin-top: 0px;
+      }
+
+      #ipgor42 {
+        font-size: 18px;
+      }
+
+      #igj4t8e {
+        font-size: 18px;
+      }
+
+      #i53fpc {
+        height: 330px;
+        object-fit: contain;
+      }
+
+      #i84zry {
+        height: 497px;
+        object-fit: contain;
+      }
+
+      #iz2ne5 {
+        height: 510px;
+      }
+
+      #ismbnt {
+        height: 270px;
+        object-fit: contain;
+      }
+
+      #ie5ydd {
+        height: 401px;
+        object-fit: contain;
+      }
+
+      #i8h9yg {
+        height: 380px;
+        object-fit: contain;
+      }
+
+      #itsepa {
+        font-size: 18px;
+      }
+
+      @media (max-width: 576px) {
+        #i9js0h {
+          margin-bottom: 0px;
+          margin-top: 0px;
+        }
+
+        #imlkzo {
+          font-size: 14px;
+        }
+
+        #i6kzop {
+          margin-bottom: 0px;
+          margin-top: 0px;
+        }
+
+        #iz2ne5 {
+          height: 219px;
+        }
+
+        #inhm3 {
+          font-size: 26px;
+        }
+
+        #iwtmg {
+          font-size: 16px;
+        }
+
+        #igtja9 {
+          font-size: 16px;
+        }
+
+        #i8szz5 {
+          font-size: 16px;
+        }
+
+        #itqx7r {
+          font-size: 16px;
+        }
+
+        #itsepa {
+          font-size: 16px;
+        }
+
+        #ih1t2w {
+          font-size: 22px;
+        }
+
+        #iqub0g {
+          font-size: 22px;
+        }
+
+        #ic6v1n {
+          font-size: 16px;
+        }
+
+        #i3c3yk {
+          font-size: 16px;
+        }
+
+        #ikxnee {
+          font-size: 22px;
+        }
+
+        #iikfvh {
+          font-size: 16px;
+        }
+
+        #i72qyu {
+          font-size: 22px;
+        }
+
+        #i7usvm {
+          font-size: 16px;
+        }
+
+        #ixp6bl {
+          font-size: 16px;
+        }
+
+        #ik3ndw {
+          font-size: 22px;
+        }
+
+        #i6efip {
+          font-size: 16px;
+        }
+
+        #iu5pw5 {
+          font-size: 16px;
+        }
+
+        #imy87h {
+          font-size: 16px;
+        }
+
+        #i6obm5 {
+          font-size: 16px;
+        }
+
+        #ibataw {
+          font-size: 16px;
+        }
+
+        #iz3hcf {
+          font-size: 16px;
+        }
+
+        #ieruxj {
+          font-size: 22px;
+        }
+
+        #iqcydd {
+          font-size: 16px;
+        }
+
+        #ir3u4c {
+          font-size: 16px;
+        }
+
+        #idgn1k {
+          font-size: 16px;
+        }
+
+        #igugt1 {
+          font-size: 16px;
+        }
+
+        #iij7p8 {
+          font-size: 22px;
+        }
+
+        #ienu8o {
+          font-size: 16px;
+        }
+
+        #iwee8p {
+          font-size: 16px;
+        }
+
+        #i96n0t {
+          font-size: 22px;
+        }
+
+        #ilpru6 {
+          font-size: 16px;
+        }
+
+        #i69xkf {
+          font-size: 16px;
+        }
+
+        #i4dqkq {
+          font-size: 16px;
+        }
+
+        #inq17h {
+          font-size: 16px;
+        }
+
+        #iicvhd {
+          font-size: 22px;
+        }
+
+        #it790n {
+          font-size: 16px;
+        }
+
+        #iueekh {
+          font-size: 22px;
+        }
+
+        #iwscmz {
+          font-size: 16px;
+        }
+
+        #ifoojq {
+          font-size: 22px;
+        }
+
+        #itxipsa {
+          font-size: 16px;
+        }
+
+        #if9ftrp {
+          font-size: 16px;
+        }
+
+        #ibvegh {
+          font-size: 22px;
+        }
+
+        #iak2ne5 {
+          font-size: 16px;
+        }
+
+        #ipgor42 {
+          font-size: 16px;
+        }
+
+        #igj4t8e {
+          font-size: 16px;
+        }
+
+        #itrrcd {
+          font-size: 22px;
+        }
+      }
